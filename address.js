@@ -512,7 +512,7 @@
       corner  : '(?:\\band\\b|\\bat\\b|&|\\@)',
     };
 
-    Addr_Match.number = '(?<number>\\d+-?\\d*)(?=\\D)';
+    Addr_Match.number = '((?<number>\\d+)-?\\d*\/?\\d?)(?=\\D)';
 
     Addr_Match.street = '                                       \n\
       (?:                                                       \n\
