@@ -565,6 +565,7 @@
         |rear                                         \n\
         |side                                         \n\
         |uppe?r                                       \n\
+        |[a-z]                                        \n\
       )\\b';
 
     Addr_Match.sec_unit = '                               \n\
