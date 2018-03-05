@@ -550,6 +550,7 @@
         |spa?ce?                                      \n\
         |stop                                         \n\
         |tra?i?le?r                                   \n\
+        |c                                            \n\
         |box)(?![a-z]                                 \n\
       )                                               \n\
       ';
